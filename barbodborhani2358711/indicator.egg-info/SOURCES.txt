@@ -1,0 +1,9 @@
+LICENSE
+MANIFEST.in
+README.txt
+setup.py
+indicator/__init__.py
+indicator.egg-info/PKG-INFO
+indicator.egg-info/SOURCES.txt
+indicator.egg-info/dependency_links.txt
+indicator.egg-info/top_level.txt
